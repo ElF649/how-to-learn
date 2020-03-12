@@ -1,0 +1,22 @@
+.footer__column-link {
+    color: white;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;   
+}
+
+.footer__column-link:hover {
+    animation: vanish 1s ease;
+}
+
+@keyframes vanish {
+  
+    0% {
+      opacity: 1;
+    }
+    
+    100% {
+        opacity: 0.5;
+    }
+}

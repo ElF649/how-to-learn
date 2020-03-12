@@ -1,0 +1,4 @@
+.two-columns__paragraph:nth-child(2n) {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
