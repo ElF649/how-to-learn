@@ -8,11 +8,3 @@
     animation: square-rotation 20s linear infinite;    
 }
 
-@keyframes square-rotation {
-    from {
-        transform: rotate(-15deg);
-    }
-    to {
-        transform: rotate(345deg)
-    }
-}
